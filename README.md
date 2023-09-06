@@ -1,6 +1,6 @@
-# LMH Summer Camp Projects
+# Summer Projects
 
-This repository contains the projects completed during the LMH Summer Camp. The projects are organized into separate directories for each week, ranging from Week 1 to Week 3. Each directory contains a different project showcasing various machine learning and deep learning techniques.
+This repository contains the projects completed during the three weeks of summer. The projects are organized into separate directories for each week, ranging from Week 1 to Week 3. Each directory contains a different project showcasing various deep learning techniques.
 
 ## Week 1: Image Colorizer and Simpson Face Generator
 
