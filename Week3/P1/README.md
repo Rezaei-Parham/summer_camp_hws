@@ -71,7 +71,8 @@ show_video('MountainCarContinuous-v0')
 
 Here is a video of the agent's behavior in the MountainCarContinuous-v0 environment after a few epochs.
 
-![trained agent video](./midepochvideo.mp4)
+![trained agent video](https://github.com/cyberrosa/summer_camp_hws/assets/94908814/bee6a66d-0236-406a-940c-33562b38b370)
+
 
 ## License
 
