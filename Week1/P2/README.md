@@ -40,6 +40,8 @@ After running the training loop, the generative model will learn to generate new
 
 The generated images will be saved in the project directory, and you can visualize them using the provided code in the notebook.
 
+Here is a sample result after a few epochs:
+![Simpson Face](./sample.png)
 ### License
 
 This project is licensed under the [MIT License](LICENSE).
